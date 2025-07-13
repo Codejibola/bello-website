@@ -1,0 +1,8 @@
+button:hover{
+    font-size: larger;
+    transition: 0.1s ease-in-out;
+}
+a:hover{
+    font-size: larger;
+    transition: 0.1s ease-in-out;
+}
